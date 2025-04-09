@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="manush.ussd.android">
+    package="com.example.ussd_phone_call_sms_example">
    <application
         android:label="ussd_phone_call_sms_example"
         android:name="${applicationName}"

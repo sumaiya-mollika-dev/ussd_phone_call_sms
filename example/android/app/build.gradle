@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
-    namespace "manush.ussd.android"
+    namespace "com.example.ussd_phone_call_sms"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
