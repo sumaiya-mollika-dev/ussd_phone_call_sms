@@ -11,15 +11,6 @@ buildscript {
     }
 }
 
-android {
-    namespace 'com.example.ussd_phone_call_sms'
-    compileSdkVersion 33
-
-    defaultConfig {
-        minSdkVersion 21
-    }
-}
-
 allprojects {
     repositories {
         google()
